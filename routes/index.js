@@ -1,12 +1,13 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const App = () => {
+const routes = () => {
   return (
     <View>
-      <Text>UI</Text>
+      
+      <Text>routes</Text>
     </View>
   )
 }
 
-export default App
+export default routes
